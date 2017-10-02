@@ -27,8 +27,9 @@ You can use this module by adding the following entries to you `composer.json` f
             /* ... */,
             {
                 "type": "vcs",
-                "url": "..."
+                "url": "git@github.com:astorm/module-new-relic-patch.git"
             }
+        ]
     }
 
 Once added, run 
